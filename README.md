@@ -30,6 +30,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
   [ ] Balanced Binary Tree
+  [ ] Binary to string
+    - 5.2 CTCI
   [ ] Binary tree in order Traversal
   [ ] Binary tree level order Traversal
   [ ] Binary tree Pre-ordered Traversal
@@ -52,26 +54,36 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Combination sum 2
   [ ] Combinations
   [ ] Container with most water
+  [ ] conversion
+    - 5.6 CTCI
   [ ] Convert sorted array to bin search
   [ ] Convert sorted list to bin search
   [ ] Copy list with random pointer
   [ ] Count and say
+  [ ] Debugger
+    - CTCI 5.5
   [ ] Decode ways
   [ ] Delete middle node
     - 2.3 CTCI
   [ ] Distinct subsequences
   [ ] Divide to integers
+  [ ] Draw line
+    - 5.8 CTCI
   [ ] Edit distance
   [ ] Evaluate reverse polish notation
   [ ] First common ancestor
     - 4.8 CTCI
   [ ] First missing positive
   [ ] Flatten binary tree to linked list
+  [ ] Flip bit to win
+    - 5.3 CTCI
   [ ] Gas station
   [ ] Generate parentheses
   [ ] Gray code
   [ ] Implement strStr()
   [ ] Insert interval
+  [ ] Insertion
+    - 5.1 CTCI
   [ ] Integer to roman
   [ ] Interleaving string
   [ ] Intersection
@@ -110,8 +122,12 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Minimum window substring
   [ ] Multiply strings
   [ ] Next permutation
+  [ ] Next number
+    - CTCI 5.4
   [ ] One away
     - CTCI 1.5
+  [ ] Pairwise Swap
+    - CTCI 5.7
   [ ] Palindrome
     - CTCI 2.6
   [ ] Palindrome number
