@@ -34,10 +34,18 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Binary tree level order Traversal
   [ ] Binary tree Pre-ordered Traversal
   [ ] Binary tree sum maximum path
+  [ ] BST sequence
+    - 4.9 CTCI
   [ ] Build binary trees
     - CP 2ed. pg. 42-44
+  [ ] Build order
+    - 4.7 CTCI
+  [ ] check balanced
+    - 4.4 CTCI
   [ ] Check permutations
     - CTCI 1.2
+  [ ] check subtree
+    - 4.10 CTCI
   [ ] Climbing stairs
   [ ] Clone graph
   [ ] Combination sum 1
@@ -55,6 +63,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Divide to integers
   [ ] Edit distance
   [ ] Evaluate reverse polish notation
+  [ ] First common ancestor
+    - 4.8 CTCI
   [ ] First missing positive
   [ ] Flatten binary tree to linked list
   [ ] Gas station
@@ -75,6 +85,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Letter combinations of a phone number
   [ ] Linked list cycle
   [ ] Linked list cycle 2
+  [ ] List of depths
+    - 4.3 CTCI
   [ ] Longest common prefix
   [ ] Longest common prefix 2
   [ ] Longest consecutive sequence
@@ -91,6 +103,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] merge k sorted lists
   [ ] merge sorted arrays
   [ ] Merge 2 sorted lists
+  [ ] Minimal tree
+    - CTCI 4.2
   [ ] Minimum depth of binary tree
   [ ] Minimum path sum
   [ ] Minimum window substring
@@ -111,6 +125,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Pascals triangle
   [ ] Path sum 1
   [ ] Path sum 2
+  [ ] Paths with sum
+    - 4.12 CTCI
   [ ] Permutations 1
   [ ] Permutations 2
   [ ] Permutation sequence
@@ -120,6 +136,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Pow(x, n)
   [ ] Queue via stack
     - 3.4 CTCI
+  [ ] Random node
+    - 4.11 CTCI
   [ ] Recover binary search tree
   [ ] Remove duplicates from sorted array 1
   [ ] Remove duplicates from sorted array 2
@@ -141,6 +159,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Rotate list
   [ ] Rotate matrix
     - 1.7 CTCI
+  [ ] Route between nodes
+    - 4.1 CTCI
   [ ] Scramble string
   [ ] Search a 2d matrix
   [ ] Search for a range
@@ -171,6 +191,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Subsets 1
   [ ] Subsets 2
   [ ] Substring with concatenation of all words
+  [ ] Successor
+    - 4.6 CTCI
   [ ] Sum list
     - 2.5 CTCI
   [ ] Sum root to leaf numbers
@@ -193,6 +215,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Valid parentheses
   [ ] Valid sudoku
   [ ] Validate binary search tree
+  [ ] Validate bst
+    - 4.5 CTCI
   [ ] Wild card matching
   [ ] Word break 1
   [ ] Word break 2
