@@ -144,8 +144,16 @@ Unique binary tree search 1
 Unique binary tree search 2
 Unique paths 1
 Unique paths 2
-
-
+Uppercase and lowercase permutations
+Valid palindrome
+Valid parentheses
+Valid sudoku
+Validate binary search tree
+Wild card matching
+Word break 1
+Word break 2
+Word search
+Zig zag conversion
 
 CP 2ed. = (book) Coding Puzzles 2nd edition by @codingtmd
 CTCI = (book) Cracking the Coding Interview 6th edition by Gayle Laakmann McDowell
