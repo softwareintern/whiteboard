@@ -54,12 +54,16 @@ My personal motivation for this project is to program every day. Sometimes there
     - 4.7 CTCI
   [ ] Call center
     - 7.2 CTCI
+  [ ] Chat server
+    - 7.7 CTCI
   [ ] check balanced
     - 4.4 CTCI
   [ ] Check permutations
     - CTCI 1.2
   [ ] check subtree
     - 4.10 CTCI
+  [ ] circular array
+    - 7.9 CTCI
   [ ] Climbing stairs
   [ ] Clone graph
   [ ] Combination sum 1
@@ -89,6 +93,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Egg drop problem
     - 6.8 CTCI
   [ ] Evaluate reverse polish notation
+  [ ] File system
+    - 7.11 CTCI
   [ ] First common ancestor
     - 4.8 CTCI
   [ ] First missing positive
@@ -98,6 +104,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Gas station
   [ ] Generate parentheses
   [ ] Gray code
+  [ ] Hash table
+    - 7.12 CTCI
   [ ] Heavy pill
     - 6.1 CTCI
   [ ] Implement strStr()
@@ -141,6 +149,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] merge k sorted lists
   [ ] merge sorted arrays
   [ ] Merge 2 sorted lists
+  [ ] Minesweeper
+    - 7.10 CTCI
   [ ] Minimal tree
     - CTCI 4.2
   [ ] Minimum depth of binary tree
@@ -154,6 +164,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 1.5
   [ ] Online book reader
     - ctci 7.5
+  [ ] Othello
+    - 7.8 CTCI
   [ ] Pairwise Swap
     - CTCI 5.7
   [ ] Palindrome
