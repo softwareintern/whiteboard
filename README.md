@@ -52,6 +52,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CP 2ed. pg. 42-44
   [ ] Build order
     - 4.7 CTCI
+  [ ] Call center
+    - 7.2 CTCI
   [ ] check balanced
     - 4.4 CTCI
   [ ] Check permutations
@@ -73,6 +75,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Debugger
     - CTCI 5.5
   [ ] Decode ways
+  [ ] Deck of cards
+    - 7.1 CTCI
   [ ] Delete middle node
     - 2.3 CTCI
   [ ] Distinct subsequences
@@ -106,8 +110,12 @@ My personal motivation for this project is to program every day. Sometimes there
     - 2.7 CTCI
   [ ] Is Unique
     - 1.1 CTCI
+  [ ] Jigsaw
+    - 7.6 CTCI
   [ ] Jugs of water
     - 6.5 CTCI
+  [ ] Juke box
+    - 7.3 CTCI
   [ ] Jump game 1
   [ ] Jump game 2
   [ ] Largest rectangle in histogram
@@ -144,6 +152,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 5.4
   [ ] One away
     - CTCI 1.5
+  [ ] Online book reader
+    - ctci 7.5
   [ ] Pairwise Swap
     - CTCI 5.7
   [ ] Palindrome
@@ -153,6 +163,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Palindrome partitioning 2
   [ ] Palindrome permutation
     - CTCI 1.4
+  [ ] Parking Lot
+    - CTCI 7.4
   [ ] Partition
     - 2.4 CTCI
   [ ] Partition list
