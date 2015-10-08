@@ -142,6 +142,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Loop detection
     - 2.8 CTCI
   [ ] LRU cache
+  [ ] Magic index
+    - 8.3 CTCI
   [ ] Max depth of binary tree
   [ ] Max points on a line
   [ ] Median of 2 sorted arrays
@@ -188,17 +190,23 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Permutations 1
   [ ] Permutations 2
   [ ] Permutation sequence
+  [ ] Permutations without dups
+    - 8.7 CTCI
   [ ] Plus 1
   [ ] Poison
     - 6.10 CTCI
   [ ] Populate next right pointer on each node 1
   [ ] Populate next right pointer on each node 2
+  [ ] Power Set
+    - 8.4 CTCI
   [ ] Pow(x, n)
   [ ] Queue via stack
     - 3.4 CTCI
   [ ] Random node
     - 4.11 CTCI
   [ ] Recover binary search tree
+  [ ] Recursive Multiply
+    - 8.5 CTCI
   [ ] Remove duplicates from sorted array 1
   [ ] Remove duplicates from sorted array 2
   [ ] Remove duplicates from sorted list 1
@@ -214,6 +222,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Reverse integer
   [ ] Reverse linked list
   [ ] Reverse nodes in k-group
+  [ ] Robot in a grid
+    - 8.2 CTCI
   [ ] Roman to integer
   [ ] Rotate image
   [ ] Rotate list
@@ -262,8 +272,12 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Text justification
   [ ] Three in 1
     - 3.1 CTCI
+  [ ] Towers of hanoi
+    - 8.6 CTCI
   [ ] Trapping rain water
   [ ] Triangle
+  [ ] Triple step
+    - 8.1 CTCI
   [ ] Unique binary tree search 1
   [ ] Unique binary tree search 2
   [ ] Unique paths 1
