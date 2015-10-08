@@ -26,10 +26,14 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Anagrams
   [ ] Animal shelter
     - 3.6 CTCI
+  [ ] Ants on a triangle
+    - 6.4 CTCI
   [ ] Best time to buy/sell stock 1
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
   [ ] Balanced Binary Tree
+  [ ] Basketball
+    - 6.2 CTCI
   [ ] Binary to string
     - 5.2 CTCI
   [ ] Binary tree in order Traversal
@@ -67,6 +71,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 2.3 CTCI
   [ ] Distinct subsequences
   [ ] Divide to integers
+  [ ] Dominos
+    - 6.3 CTCI
   [ ] Draw line
     - 5.8 CTCI
   [ ] Edit distance
@@ -80,6 +86,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Gas station
   [ ] Generate parentheses
   [ ] Gray code
+  [ ] Heavy pill
+    - 6.1 CTCI
   [ ] Implement strStr()
   [ ] Insert interval
   [ ] Insertion
@@ -90,6 +98,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 2.7 CTCI
   [ ] Is Unique
     - 1.1 CTCI
+  [ ] Jugs of water
+    - 6.5 CTCI
   [ ] Jump game 1
   [ ] Jump game 2
   [ ] Largest rectangle in histogram
