@@ -46,6 +46,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Binary tree sum maximum path
   [ ] Blue-eyed island
     - 6.6 CTCI
+  [ ] Boolean evaluation
+    - 8.14 CTCI
   [ ] BST sequence
     - 4.9 CTCI
   [ ] Build binary trees
@@ -66,6 +68,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 7.9 CTCI
   [ ] Climbing stairs
   [ ] Clone graph
+  [ ] Coins
+    - 8.11 CTCI
   [ ] Combination sum 1
   [ ] Combination sum 2
   [ ] Combinations
@@ -92,6 +96,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Edit distance
   [ ] Egg drop problem
     - 6.8 CTCI
+  [ ] Eight queens
+    - 8.12 CTCI
   [ ] Evaluate reverse polish notation
   [ ] File system
     - 7.11 CTCI
@@ -168,6 +174,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - ctci 7.5
   [ ] Othello
     - 7.8 CTCI
+  [ ] Paint fill
+    - 8.10 CTCI
   [ ] Pairwise Swap
     - CTCI 5.7
   [ ] Palindrome
@@ -177,6 +185,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Palindrome partitioning 2
   [ ] Palindrome permutation
     - CTCI 1.4
+  [ ] Parens
+    - 8.9 CTCI
   [ ] Parking Lot
     - CTCI 7.4
   [ ] Partition
@@ -190,8 +200,10 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Permutations 1
   [ ] Permutations 2
   [ ] Permutation sequence
-  [ ] Permutations without dups
+  [ ] Permutations without dups 1
     - 8.7 CTCI
+  [ ] Permutations without dups 2
+    - 8.8 CTCI
   [ ] Plus 1
   [ ] Poison
     - 6.10 CTCI
@@ -249,6 +261,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Spiral matrix 1
   [ ] Spiral matrix 2
   [ ] Sqrt(x)
+  [ ] Stack boxes
+    - 8.13 CTCI
   [ ] Stack Min
     - 3.2 CTCI
   [ ] Stack of plates
