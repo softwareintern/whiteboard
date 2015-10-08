@@ -10,6 +10,8 @@ My personal motivation for this project is to program every day. Sometimes there
   4. code the solution
 
 ## Problems followed by possible sources (try to alphabetize or consider table)
+  [ ] 100 Lockers
+    - 6.9 CTCI
   [ ] 2 sum given target sum find 2 numbers that equals it in array
     - https://web.stanford.edu/class/cs9/lectures/06/TwoSum.pdf
     - CP 2ed. pg. 1-3
@@ -28,6 +30,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 3.6 CTCI
   [ ] Ants on a triangle
     - 6.4 CTCI
+  [ ] Apocalypse
+    - 6.6 CTCI
   [ ] Best time to buy/sell stock 1
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
@@ -40,6 +44,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Binary tree level order Traversal
   [ ] Binary tree Pre-ordered Traversal
   [ ] Binary tree sum maximum path
+  [ ] Blue-eyed island
+    - 6.6 CTCI
   [ ] BST sequence
     - 4.9 CTCI
   [ ] Build binary trees
@@ -76,6 +82,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Draw line
     - 5.8 CTCI
   [ ] Edit distance
+  [ ] Egg drop problem
+    - 6.8 CTCI
   [ ] Evaluate reverse polish notation
   [ ] First common ancestor
     - 4.8 CTCI
@@ -157,6 +165,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Permutations 2
   [ ] Permutation sequence
   [ ] Plus 1
+  [ ] Poison
+    - 6.10 CTCI
   [ ] Populate next right pointer on each node 1
   [ ] Populate next right pointer on each node 2
   [ ] Pow(x, n)
