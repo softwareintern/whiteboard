@@ -34,6 +34,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Binary tree sum maximum path
   [ ] Build binary trees
     - CP 2ed. pg. 42-44
+  [ ] Check permutations
+    - CTCI 1.2
   [ ] Climbing stairs
   [ ] Clone graph
   [ ] Combination sum 1
@@ -58,6 +60,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Insert interval
   [ ] Integer to roman
   [ ] Interleaving string
+  [ ] Is Unique
+    - 1.1 CTCI
   [ ] Jump game 1
   [ ] Jump game 2
   [ ] Largest rectangle in histogram
@@ -84,9 +88,13 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Minimum window substring
   [ ] Multiply strings
   [ ] Next permutation
+  [ ] One away
+   - CTCI 1.5
   [ ] Palindrome number
   [ ] Palindrome partitioning 1
   [ ] Palindrome partitioning 2
+  [ ] Palindrome permutation
+    - CTCI 1.4
   [ ] Partition list
   [ ] Pascals triangle
   [ ] Path sum 1
@@ -113,6 +121,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Roman to integer
   [ ] Rotate image
   [ ] Rotate list
+  [ ] Rotate matrix
+    - 1.7 CTCI
   [ ] Scramble string
   [ ] Search a 2d matrix
   [ ] Search for a range
@@ -130,6 +140,10 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Spiral matrix 2
   [ ] Sqrt(x)
   [ ] String to integer atoi
+  [ ] String compression
+    - CTCI 1.6
+  [ ] String rotation
+    - CTCI 1.9
   [ ] Subsets 1
   [ ] Subsets 2
   [ ] Substring with concatenation of all words
@@ -145,6 +159,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Unique paths 1
   [ ] Unique paths 2
   [ ] Uppercase and lowercase permutations
+  [ ] URLify
+    - 1.3 CTCI
   [ ] Valid palindrome
   [ ] Valid parentheses
   [ ] Valid sudoku
@@ -153,6 +169,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Word break 1
   [ ] Word break 2
   [ ] Word search
+  [ ] Zero matrix
+    - 1.8 CTCI
   [ ] Zig zag conversion
 
 CP 2ed. = (book) Coding Puzzles 2nd edition by @codingtmd
