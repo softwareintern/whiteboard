@@ -24,6 +24,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Add Binary
   [ ] Add two linked lists of numbers
   [ ] Anagrams
+  [ ] Animal shelter
+    - 3.6 CTCI
   [ ] Best time to buy/sell stock 1
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
@@ -62,6 +64,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Insert interval
   [ ] Integer to roman
   [ ] Interleaving string
+  [ ] Intersection
+    - 2.7 CTCI
   [ ] Is Unique
     - 1.1 CTCI
   [ ] Jump game 1
@@ -77,6 +81,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Longest palindromic substring
   [ ] Longest substring without repeating chars
   [ ] Longest valid parentheses
+  [ ] Loop detection
+    - 2.8 CTCI
   [ ] LRU cache
   [ ] Max depth of binary tree
   [ ] Max points on a line
@@ -112,6 +118,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Populate next right pointer on each node 1
   [ ] Populate next right pointer on each node 2
   [ ] Pow(x, n)
+  [ ] Queue via stack
+    - 3.4 CTCI
   [ ] Recover binary search tree
   [ ] Remove duplicates from sorted array 1
   [ ] Remove duplicates from sorted array 2
@@ -146,9 +154,15 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Single number 2
   [ ] Sort colors
   [ ] Sort list
+  [ ] Sort stack
+    - 3.5 CTCI
   [ ] Spiral matrix 1
   [ ] Spiral matrix 2
   [ ] Sqrt(x)
+  [ ] Stack Min
+    - 3.2 CTCI
+  [ ] Stack of plates
+    - 3.3 CTCI
   [ ] String to integer atoi
   [ ] String compression
     - CTCI 1.6
@@ -164,6 +178,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Swap nodes in pairs
   [ ] Symmetric tree
   [ ] Text justification
+  [ ] Three in 1
+    - 3.1 CTCI
   [ ] Trapping rain water
   [ ] Triangle
   [ ] Unique binary tree search 1
