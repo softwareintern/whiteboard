@@ -47,6 +47,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Copy list with random pointer
   [ ] Count and say
   [ ] Decode ways
+  [ ] Delete middle node
+    - 2.3 CTCI
   [ ] Distinct subsequences
   [ ] Divide to integers
   [ ] Edit distance
@@ -89,12 +91,16 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Multiply strings
   [ ] Next permutation
   [ ] One away
-   - CTCI 1.5
+    - CTCI 1.5
+  [ ] Palindrome
+    - CTCI 2.6
   [ ] Palindrome number
   [ ] Palindrome partitioning 1
   [ ] Palindrome partitioning 2
   [ ] Palindrome permutation
     - CTCI 1.4
+  [ ] Partition
+    - 2.4 CTCI
   [ ] Partition list
   [ ] Pascals triangle
   [ ] Path sum 1
@@ -111,10 +117,14 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Remove duplicates from sorted array 2
   [ ] Remove duplicates from sorted list 1
   [ ] Remove duplicates from sorted list 2
+  [ ] Remove duplicates from unsorted list
+    - 2.1 CTCI
   [ ] Remove element
   [ ] Remove nth node from end of list
   [ ] Reorder list
   [ ] Restore ip addresses
+  [ ] Return Kth to last
+    - 2.2 CTCI
   [ ] Reverse integer
   [ ] Reverse linked list
   [ ] Reverse nodes in k-group
@@ -147,6 +157,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Subsets 1
   [ ] Subsets 2
   [ ] Substring with concatenation of all words
+  [ ] Sum list
+    - 2.5 CTCI
   [ ] Sum root to leaf numbers
   [ ] Surrounded regions
   [ ] Swap nodes in pairs
