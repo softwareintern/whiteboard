@@ -114,6 +114,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Gas station
   [ ] Generate parentheses
   [ ] Gray code
+  [ ] Group anagrams
+    - 10.2 CTCI
   [ ] Hash table
     - 7.12 CTCI
   [ ] Heavy pill
@@ -258,6 +260,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Search for a range
   [ ] Search in a rotated sorted array 1
   [ ] Search in a rotated sorted array 2
+  [ ] Search in a rotated sorted array 3
+    - 10.3 CTCI
   [ ] Search insert position
   [ ] Serialize and de-serialize a tree
   [ ] Set matrix zeros
@@ -266,10 +270,18 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Single number 2
   [ ] Social network
     - 9.2 CTCI
+  [ ] Sort big file
+    - 10.6 CTCI
   [ ] Sort colors
   [ ] Sort list
+  [ ] Sorted merge
+    - 10.1 CTCI
+  [ ] sorted search, no size
+    - 10.4 CTCI
   [ ] Sort stack
     - 3.5 CTCI
+  [ ] Sparse search
+    - 10.5 CTCI
   [ ] Spiral matrix 1
   [ ] Spiral matrix 2
   [ ] Sqrt(x)
