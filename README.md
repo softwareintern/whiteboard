@@ -105,6 +105,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Evaluate reverse polish notation
   [ ] File system
     - 7.11 CTCI
+  [ ] find duplicates
+    - 10.8 CTCI
   [ ] First common ancestor
     - 4.8 CTCI
   [ ] First missing positive
@@ -170,6 +172,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Minimum depth of binary tree
   [ ] Minimum path sum
   [ ] Minimum window substring
+  [ ] Missing int
+    - 10.7 CTCI
   [ ] Multiply strings
   [ ] Next permutation
   [ ] Next number
@@ -205,6 +209,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Path sum 2
   [ ] Paths with sum
     - 4.12 CTCI
+  [ ] Peaks and valleys
+    - 10.11 CTCI
   [ ] Permutations 1
   [ ] Permutations 2
   [ ] Permutation sequence
@@ -226,6 +232,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 3.4 CTCI
   [ ] Random node
     - 4.11 CTCI
+  [ ] Rank from stream
+    - 10.10 CTCI
   [ ] Recover binary search tree
   [ ] Recursive Multiply
     - 8.5 CTCI
@@ -274,6 +282,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 10.6 CTCI
   [ ] Sort colors
   [ ] Sort list
+  [ ] Sorted matrix search
+    - 10.9 CTCI
   [ ] Sorted merge
     - 10.1 CTCI
   [ ] sorted search, no size
