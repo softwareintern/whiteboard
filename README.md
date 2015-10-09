@@ -93,6 +93,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 6.3 CTCI
   [ ] Draw line
     - 5.8 CTCI
+  [ ] Duplicate URLs
+    - 9.4 CTCI
   [ ] Edit distance
   [ ] Egg drop problem
     - 6.8 CTCI
@@ -254,6 +256,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Simplify path
   [ ] Single number 1
   [ ] Single number 2
+  [ ] Social network
+    - 9.2 CTCI
   [ ] Sort colors
   [ ] Sort list
   [ ] Sort stack
@@ -272,6 +276,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 1.6
   [ ] String rotation
     - CTCI 1.9
+  [ ] Stock data
+    - CTCI 9.1
   [ ] Subsets 1
   [ ] Subsets 2
   [ ] Substring with concatenation of all words
@@ -305,6 +311,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Validate binary search tree
   [ ] Validate bst
     - 4.5 CTCI
+  [ ] Web crawler
+    - 9.3 CTCI
   [ ] Wild card matching
   [ ] Word break 1
   [ ] Word break 2
