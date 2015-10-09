@@ -66,6 +66,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 1.2
   [ ] check subtree
     - 4.10 CTCI
+  [ ] chess test
+    - 11.3 CTCI
   [ ] circular array
     - 7.9 CTCI
   [ ] Climbing stairs
@@ -174,6 +176,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Minimum window substring
   [ ] Missing int
     - 10.7 CTCI
+  [ ] Mistake
+    - 11.1 CTCI
   [ ] Multiply strings
   [ ] Next permutation
   [ ] Next number
@@ -232,6 +236,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 3.4 CTCI
   [ ] Random node
     - 4.11 CTCI
+  [ ] Random crashes
+    - 11.2 CTCI
   [ ] Rank from stream
     - 10.10 CTCI
   [ ] Recover binary search tree
