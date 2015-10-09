@@ -182,6 +182,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Next permutation
   [ ] Next number
     - CTCI 5.4
+  [ ] No test tools
+    - 11.4 CTCI
   [ ] One away
     - CTCI 1.5
   [ ] Online book reader
@@ -325,6 +327,10 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Surrounded regions
   [ ] Swap nodes in pairs
   [ ] Symmetric tree
+  [ ] Test a pen
+    - 11.5 CTCI
+  [ ] Test an ATM
+    - 11.6 CTCI
   [ ] Text justification
   [ ] Three in 1
     - 3.1 CTCI
