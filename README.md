@@ -54,6 +54,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CP 2ed. pg. 42-44
   [ ] Build order
     - 4.7 CTCI
+  [ ] Cache
+    - 9.5 CTCI
   [ ] Call center
     - 7.2 CTCI
   [ ] Chat server
@@ -195,6 +197,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 2.4 CTCI
   [ ] Partition list
   [ ] Pascals triangle
+  [ ] Pastebin
+    - 9.8 CTCI
   [ ] Path sum 1
   [ ] Path sum 2
   [ ] Paths with sum
@@ -206,6 +210,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 8.7 CTCI
   [ ] Permutations without dups 2
     - 8.8 CTCI
+  [ ] Personal financial manager
+    - 9.7 CTCI
   [ ] Plus 1
   [ ] Poison
     - 6.10 CTCI
@@ -245,6 +251,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 1.7 CTCI
   [ ] Route between nodes
     - 4.1 CTCI
+  [ ] Sales rank
+    - 9.6 CTCI
   [ ] Scramble string
   [ ] Search a 2d matrix
   [ ] Search for a range
