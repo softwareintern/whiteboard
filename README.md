@@ -122,6 +122,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 10.2 CTCI
   [ ] Hash table
     - 7.12 CTCI
+  [ ] Hash table vs. stl map
+    - 12.3 CTCI
   [ ] Heavy pill
     - 6.1 CTCI
   [ ] Implement strStr()
@@ -143,6 +145,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Jump game 1
   [ ] Jump game 2
   [ ] Largest rectangle in histogram
+  [ ] Last k lines
+    - 12.1 CTCI
   [ ] Length of last word
   [ ] Letter combinations of a phone number
   [ ] Linked list cycle
@@ -260,6 +264,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Reverse integer
   [ ] Reverse linked list
   [ ] Reverse nodes in k-group
+  [ ] Reverse string
+    - 12.2 CTCI
   [ ] Robot in a grid
     - 8.2 CTCI
   [ ] Roman to integer
@@ -281,6 +287,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Search insert position
   [ ] Serialize and de-serialize a tree
   [ ] Set matrix zeros
+  [ ] Shallow vs deep copy
+    - 12.5 CTCI
   [ ] Simplify path
   [ ] Single number 1
   [ ] Single number 2
@@ -353,6 +361,10 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Validate binary search tree
   [ ] Validate bst
     - 4.5 CTCI
+  [ ] Virtual function
+    - 12.4 CTCI
+  [ ] volatile
+    - 12.6 CTCI
   [ ] Web crawler
     - 9.3 CTCI
   [ ] Wild card matching
