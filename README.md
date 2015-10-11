@@ -111,6 +111,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Evaluate reverse polish notation
   [ ] File system
     - 7.11 CTCI
+  [ ] Final, etc.
+    - 13.3 CTCI
   [ ] find duplicates
     - 10.8 CTCI
   [ ] First common ancestor
@@ -121,6 +123,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 5.3 CTCI
   [ ] Gas station
   [ ] Generate parentheses
+  [ ] Generics vs templates
+    - 13.4 CTCI
   [ ] Gray code
   [ ] Group anagrams
     - 10.2 CTCI
@@ -244,6 +248,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Power Set
     - 8.4 CTCI
   [ ] Pow(x, n)
+  [ ] Private constructor
+    - 13.1 CTCI
   [ ] Queue via stack
     - 3.4 CTCI
   [ ] Random node
@@ -265,6 +271,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Remove nth node from end of list
   [ ] Reorder list
   [ ] Restore ip addresses
+  [ ] Return from finally
+    - 13.2 CTCI
   [ ] Return Kth to last
     - 2.2 CTCI
   [ ] Reverse integer
