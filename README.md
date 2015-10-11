@@ -152,6 +152,10 @@ My personal motivation for this project is to program every day. Sometimes there
     - 7.3 CTCI
   [ ] Jump game 1
   [ ] Jump game 2
+  [ ] Lambda expressions
+    - 13.7 CTCI
+  [ ] Lambda random
+    - 13.8 CTCI
   [ ] Largest rectangle in histogram
   [ ] Last k lines
     - 12.1 CTCI
@@ -198,6 +202,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 5.4
   [ ] No test tools
     - 11.4 CTCI
+  [ ] Object reflection
+    - 13.6 CTCI
   [ ] One away
     - CTCI 1.5
   [ ] Online book reader
@@ -361,6 +367,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Towers of hanoi
     - 8.6 CTCI
   [ ] Trapping rain water
+  [ ] TreeMap, HashMap, LinkedHashMap
+    - 13.5 CTCI
   [ ] Triangle
   [ ] Triple step
     - 8.1 CTCI
