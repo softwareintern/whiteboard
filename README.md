@@ -125,6 +125,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Entity-relationship diagram
     - 14.6 CTCI
   [ ] Evaluate reverse polish notation
+  [ ] Factorial zeros
+    - 16.5 CTCI
   [ ] File system
     - 7.11 CTCI
   [ ] Final, etc.
@@ -160,6 +162,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Interleaving string
   [ ] Intersection
     - 2.7 CTCI
+  [ ] Intersection
+    - 16.3 CTCI
   [ ] Is Unique
     - 1.1 CTCI
   [ ] Jigsaw
@@ -224,6 +228,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 5.4
   [ ] No test tools
     - 11.4 CTCI
+  [ ] Number swapper
+    - 16.1 CTCI
   [ ] Object reflection
     - 13.6 CTCI
   [ ] One away
@@ -392,6 +398,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 15.1 CTCI
   [ ] Three in 1
     - 3.1 CTCI
+  [ ] Tic tac win
+    - 16.4 CTCI
   [ ] Towers of hanoi
     - 8.6 CTCI
   [ ] Trapping rain water
@@ -424,6 +432,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Wild card matching
   [ ] Word break 1
   [ ] Word break 2
+  [ ] Word frequencies
+    - 16.2 CTCI
   [ ] Word search
   [ ] Zero matrix
     - 1.8 CTCI
