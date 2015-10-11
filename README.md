@@ -74,6 +74,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 7.9 CTCI
   [ ] Climbing stairs
   [ ] Clone graph
+  [ ] Close all requests
+    - 14.3 CTCI
   [ ] Coins
     - 8.11 CTCI
   [ ] Combination sum 1
@@ -146,6 +148,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 1.1 CTCI
   [ ] Jigsaw
     - 7.6 CTCI
+  [ ] Joins
+    - 14.4 CTCI
   [ ] Jugs of water
     - 6.5 CTCI
   [ ] Juke box
@@ -196,6 +200,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 10.7 CTCI
   [ ] Mistake
     - 11.1 CTCI
+  [ ] Multiple apartments
+    - 14.1 CTCI
   [ ] Multiply strings
   [ ] Next permutation
   [ ] Next number
@@ -208,6 +214,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 1.5
   [ ] Online book reader
     - ctci 7.5
+  [ ] Open requests
+    - 14.2 CTCI
   [ ] Othello
     - 7.8 CTCI
   [ ] Paint fill
