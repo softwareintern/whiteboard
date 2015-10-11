@@ -97,6 +97,10 @@ My personal motivation for this project is to program every day. Sometimes there
     - 7.1 CTCI
   [ ] Delete middle node
     - 2.3 CTCI
+  [ ] Denormalization
+    - 14.5 CTCI
+  [ ] Design grade database
+    - 14.7 CTCI
   [ ] Distinct subsequences
   [ ] Divide to integers
   [ ] Dominos
@@ -110,6 +114,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 6.8 CTCI
   [ ] Eight queens
     - 8.12 CTCI
+  [ ] Entity-relationship diagram
+    - 14.6 CTCI
   [ ] Evaluate reverse polish notation
   [ ] File system
     - 7.11 CTCI
