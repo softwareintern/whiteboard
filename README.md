@@ -16,6 +16,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - https://web.stanford.edu/class/cs9/lectures/06/TwoSum.pdf
     - CP 2ed. pg. 1-3
     - https://leetcode.com/problems/two-sum/
+  [ ] 2d Alloc
+    - 12.11 CTCI
   [ ] 3 sum given target sum find 3 numbers that equals it in array
     - CP 2ed. pg. 4-6 (= 0 variation)
     - https://leetcode.com/problems/3sum/ (= 0 variation)
@@ -83,6 +85,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Convert sorted array to bin search
   [ ] Convert sorted list to bin search
   [ ] Copy list with random pointer
+  [ ] Copy node
+    - 12.8 CTCI
   [ ] Count and say
   [ ] Debugger
     - CTCI 5.5
@@ -164,6 +168,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] LRU cache
   [ ] Magic index
     - 8.3 CTCI
+  [ ] Malloc
+    - 12.10 CTCI
   [ ] Max depth of binary tree
   [ ] Max points on a line
   [ ] Median of 2 sorted arrays
@@ -292,6 +298,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Simplify path
   [ ] Single number 1
   [ ] Single number 2
+  [ ] Smart pointer
+    - 12.9 CTCI
   [ ] Social network
     - 9.2 CTCI
   [ ] Sort big file
@@ -361,6 +369,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Validate binary search tree
   [ ] Validate bst
     - 4.5 CTCI
+  [ ] Virtual base class
+    - 12.7 CTCI
   [ ] Virtual function
     - 12.4 CTCI
   [ ] volatile
