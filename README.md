@@ -60,6 +60,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 9.5 CTCI
   [ ] Call center
     - 7.2 CTCI
+  [ ] Call in order
+    - 15.5 CTCI
   [ ] Chat server
     - 7.7 CTCI
   [ ] check balanced
@@ -132,6 +134,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] First common ancestor
     - 4.8 CTCI
   [ ] First missing positive
+  [ ] FizzBuzz
+    - 15.7 CTCI
   [ ] Flatten binary tree to linked list
   [ ] Flip bit to win
     - 5.3 CTCI
@@ -377,6 +381,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Surrounded regions
   [ ] Swap nodes in pairs
   [ ] Symmetric tree
+  [ ] Synchronized methods
+    - 15.6 CTCI
   [ ] Test a pen
     - 11.5 CTCI
   [ ] Test an ATM
