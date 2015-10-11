@@ -82,6 +82,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Combination sum 2
   [ ] Combinations
   [ ] Container with most water
+  [ ] Contecti switch
+    - 15.2 CTCI
   [ ] conversion
     - 5.6 CTCI
   [ ] Convert sorted array to bin search
@@ -90,6 +92,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Copy node
     - 12.8 CTCI
   [ ] Count and say
+  [ ] Deadlock-free class
+    - 15.4 CTCI
   [ ] Debugger
     - CTCI 5.5
   [ ] Decode ways
@@ -101,6 +105,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 14.5 CTCI
   [ ] Design grade database
     - 14.7 CTCI
+  [ ] Dining philosophers
+    - 15.3 CTCI
   [ ] Distinct subsequences
   [ ] Divide to integers
   [ ] Dominos
@@ -376,6 +382,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Test an ATM
     - 11.6 CTCI
   [ ] Text justification
+  [ ] Thread vs. process
+    - 15.1 CTCI
   [ ] Three in 1
     - 3.1 CTCI
   [ ] Towers of hanoi
