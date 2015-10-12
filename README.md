@@ -122,6 +122,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 6.8 CTCI
   [ ] Eight queens
     - 8.12 CTCI
+  [ ] English int
+    - 16.8 CTCI
   [ ] Entity-relationship diagram
     - 14.6 CTCI
   [ ] Evaluate reverse polish notation
@@ -189,6 +191,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Linked list cycle 2
   [ ] List of depths
     - 4.3 CTCI
+  [ ] Living people
+    - 16.10 CTCI
   [ ] Longest common prefix
   [ ] Longest common prefix 2
   [ ] Longest consecutive sequence
@@ -228,6 +232,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 5.4
   [ ] No test tools
     - 11.4 CTCI
+  [ ] Number max
+    - 16.7 CTCI
   [ ] Number swapper
     - 16.1 CTCI
   [ ] Object reflection
@@ -238,6 +244,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - ctci 7.5
   [ ] Open requests
     - 14.2 CTCI
+  [ ] Operations
+    - 16.9 CTCI
   [ ] Othello
     - 7.8 CTCI
   [ ] Paint fill
@@ -342,6 +350,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Simplify path
   [ ] Single number 1
   [ ] Single number 2
+  [ ] Smallest difference
+    - 16.6 CTCI
   [ ] Smart pointer
     - 12.9 CTCI
   [ ] Social network
