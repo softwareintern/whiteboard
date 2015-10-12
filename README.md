@@ -34,6 +34,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 6.4 CTCI
   [ ] Apocalypse
     - 6.6 CTCI
+  [ ] Best line
+    - 16.4 CTCI
   [ ] Best time to buy/sell stock 1
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
@@ -46,6 +48,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Binary tree level order Traversal
   [ ] Binary tree Pre-ordered Traversal
   [ ] Binary tree sum maximum path
+  [ ] Bisect squares
+    - 16.13 CTCI
   [ ] Blue-eyed island
     - 6.6 CTCI
   [ ] Boolean evaluation
@@ -111,6 +115,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 15.3 CTCI
   [ ] Distinct subsequences
   [ ] Divide to integers
+  [ ] Diving board
+    - 16.11 CTCI
   [ ] Dominos
     - 6.3 CTCI
   [ ] Draw line
@@ -445,6 +451,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Word frequencies
     - 16.2 CTCI
   [ ] Word search
+  [ ] xml encoding
+    - 16.12 CTCI
   [ ] Zero matrix
     - 1.8 CTCI
   [ ] Zig zag conversion
