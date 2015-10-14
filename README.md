@@ -90,6 +90,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Container with most water
   [ ] Contecti switch
     - 15.2 CTCI
+  [ ] Contiguous sequence
+    - 16.17 CTCI
   [ ] conversion
     - 5.6 CTCI
   [ ] Convert sorted array to bin search
@@ -212,6 +214,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 8.3 CTCI
   [ ] Malloc
     - 12.10 CTCI
+  [ ] Master mind
+    - 16.15 CTCI
   [ ] Max depth of binary tree
   [ ] Max points on a line
   [ ] Median of 2 sorted arrays
@@ -279,6 +283,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Path sum 2
   [ ] Paths with sum
     - 4.12 CTCI
+  [ ] Pattern matching
+    - 16.18 CTCI 
   [ ] Peaks and valleys
     - 10.11 CTCI
   [ ] Permutations 1
@@ -392,6 +398,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - CTCI 1.9
   [ ] Stock data
     - CTCI 9.1
+  [ ] Sub sorts
+    - 16.16 CTCI
   [ ] Subsets 1
   [ ] Subsets 2
   [ ] Substring with concatenation of all words
