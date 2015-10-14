@@ -62,6 +62,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 4.7 CTCI
   [ ] Cache
     - 9.5 CTCI
+  [ ] Calculator
+    - 16.26 CTCI
   [ ] Call center
     - 7.2 CTCI
   [ ] Call in order
@@ -212,6 +214,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Loop detection
     - 2.8 CTCI
   [ ] LRU cache
+  [ ] LRU cache
+    - 16.25 CTCI
   [ ] Magic index
     - 8.3 CTCI
   [ ] Malloc
@@ -262,6 +266,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 7.8 CTCI
   [ ] Paint fill
     - 8.10 CTCI
+  [ ] Pairs with sum
+    - 16.24 CTCI
   [ ] Pairwise Swap
     - CTCI 5.7
   [ ] Palindrome
@@ -312,6 +318,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 13.1 CTCI
   [ ] Queue via stack
     - 3.4 CTCI
+  [ ] Rand7 from rand5
+    - 16.23 CTCI
   [ ] Random node
     - 4.11 CTCI
   [ ] Random crashes
