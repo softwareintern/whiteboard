@@ -190,6 +190,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 13.7 CTCI
   [ ] Lambda random
     - 13.8 CTCI
+  [ ] Langton's Ants
+    - 16.22 CTCI
   [ ] Largest rectangle in histogram
   [ ] Last k lines
     - 12.1 CTCI
@@ -284,7 +286,7 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Paths with sum
     - 4.12 CTCI
   [ ] Pattern matching
-    - 16.18 CTCI 
+    - 16.18 CTCI
   [ ] Peaks and valleys
     - 10.11 CTCI
   [ ] Permutations 1
@@ -299,6 +301,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Plus 1
   [ ] Poison
     - 6.10 CTCI
+  [ ] Pond sizes
+    - 16.19 CTCI
   [ ] Populate next right pointer on each node 1
   [ ] Populate next right pointer on each node 2
   [ ] Power Set
@@ -408,11 +412,15 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Sum list
     - 2.5 CTCI
   [ ] Sum root to leaf numbers
+  [ ] Sum Swap
+    - 16.21 CTCI
   [ ] Surrounded regions
   [ ] Swap nodes in pairs
   [ ] Symmetric tree
   [ ] Synchronized methods
     - 15.6 CTCI
+  [ ] T9
+    - 16.20 CTCI
   [ ] Test a pen
     - 11.5 CTCI
   [ ] Test an ATM
