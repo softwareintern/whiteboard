@@ -27,6 +27,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] 4 sum
   [ ] Add Binary
   [ ] Add two linked lists of numbers
+  [ ] Add without plus
+    - 17.1 CTCI
   [ ] Anagrams
   [ ] Animal shelter
     - 3.6 CTCI
@@ -199,6 +201,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 12.1 CTCI
   [ ] Length of last word
   [ ] Letter combinations of a phone number
+  [ ] Letters and numbers
+    - 17.5 CTCI
   [ ] Linked list cycle
   [ ] Linked list cycle 2
   [ ] List of depths
@@ -238,6 +242,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Minimum window substring
   [ ] Missing int
     - 10.7 CTCI
+  [ ] Missing number
+    - 17.4 CTCI
   [ ] Mistake
     - 11.1 CTCI
   [ ] Multiple apartments
@@ -324,6 +330,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 4.11 CTCI
   [ ] Random crashes
     - 11.2 CTCI
+  [ ] Random set
+    - 17.3 CTCI
   [ ] Rank from stream
     - 10.10 CTCI
   [ ] Recover binary search tree
@@ -371,6 +379,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Set matrix zeros
   [ ] Shallow vs deep copy
     - 12.5 CTCI
+  [ ] Shuffle
+    - 17.2 CTCI
   [ ] Simplify path
   [ ] Single number 1
   [ ] Single number 2
