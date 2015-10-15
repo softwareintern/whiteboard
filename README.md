@@ -36,6 +36,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 6.4 CTCI
   [ ] Apocalypse
     - 6.6 CTCI
+  [ ] Baby names
+    - 17.7 CTCI
   [ ] Best line
     - 16.4 CTCI
   [ ] Best time to buy/sell stock 1
@@ -82,6 +84,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 11.3 CTCI
   [ ] circular array
     - 7.9 CTCI
+  [ ] Circus tower
+    - 17.8 CTCI
   [ ] Climbing stairs
   [ ] Clone graph
   [ ] Close all requests
@@ -104,6 +108,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Copy node
     - 12.8 CTCI
   [ ] Count and say
+  [ ] Count of 2s
+    - 17.6 CTCI
   [ ] Deadlock-free class
     - 15.4 CTCI
   [ ] Debugger
@@ -190,6 +196,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 7.3 CTCI
   [ ] Jump game 1
   [ ] Jump game 2
+  [ ] Kth Multiple
+    - 17.9 CTCI
   [ ] Lambda expressions
     - 13.7 CTCI
   [ ] Lambda random
@@ -222,6 +230,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 16.25 CTCI
   [ ] Magic index
     - 8.3 CTCI
+  [ ] Majority Element
+    - 17.10 CTCI
   [ ] Malloc
     - 12.10 CTCI
   [ ] Master mind
