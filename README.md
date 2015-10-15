@@ -52,6 +52,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Binary tree level order Traversal
   [ ] Binary tree Pre-ordered Traversal
   [ ] Binary tree sum maximum path
+  [ ] BiNode
+    - 17.12 CTCI
   [ ] Bisect squares
     - 16.13 CTCI
   [ ] Blue-eyed island
@@ -357,6 +359,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Remove nth node from end of list
   [ ] Reorder list
   [ ] Restore ip addresses
+  [ ] Re-space
+    - 17.13 CTCI
   [ ] Return from finally
     - 13.2 CTCI
   [ ] Return Kth to last
@@ -396,6 +400,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Single number 2
   [ ] Smallest difference
     - 16.6 CTCI
+  [ ] Smallest K
+    - 17.14 CTCI
   [ ] Smart pointer
     - 12.9 CTCI
   [ ] Social network
@@ -492,6 +498,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Wild card matching
   [ ] Word break 1
   [ ] Word break 2
+  [ ] Word distance
+    - 17.11 CTCI
   [ ] Word frequencies
     - 16.2 CTCI
   [ ] Word search
