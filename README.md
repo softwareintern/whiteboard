@@ -242,8 +242,12 @@ My personal motivation for this project is to program every day. Sometimes there
     - 12.10 CTCI
   [ ] Master mind
     - 16.15 CTCI
+  [ ] Max black square
+    - 17.23 CTCI
   [ ] Max depth of binary tree
   [ ] Max points on a line
+  [ ] Max submatrix
+    - 17.24 CTCI
   [ ] Median of 2 sorted arrays
   [ ] Merge intervals
   [ ] merge k sorted lists
@@ -430,6 +434,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 3.5 CTCI
   [ ] Sparse search
     - 10.5 CTCI
+  [ ] Sparse similarity
+    - 17.26 CTCI
   [ ] Spiral matrix 1
   [ ] Spiral matrix 2
   [ ] Sqrt(x)
@@ -516,6 +522,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 17.11 CTCI
   [ ] Word frequencies
     - 16.2 CTCI
+  [ ] Word rectangle
+    - 17.25 CTCI
   [ ] Word search
   [ ] Word transformer
     - 17.22 CTCI
