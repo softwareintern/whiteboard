@@ -98,10 +98,12 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Combination sum 2
   [ ] Combinations
   [ ] Container with most water
-  [ ] Contecti switch
+  [ ] Contecting switch
     - 15.2 CTCI
   [ ] Contiguous sequence
     - 16.17 CTCI
+  [ ] Continuous Median
+    - 17.20 CTCI
   [ ] conversion
     - 5.6 CTCI
   [ ] Convert sorted array to bin search
@@ -258,6 +260,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 10.7 CTCI
   [ ] Missing number
     - 17.4 CTCI
+  [ ] Missing two
+    - 17.19 CTCI
   [ ] Mistake
     - 11.1 CTCI
   [ ] Multi Search
@@ -501,6 +505,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 12.4 CTCI
   [ ] volatile
     - 12.6 CTCI
+  [ ] Volume of histogram
+    - 17.21 CTCI
   [ ] Web crawler
     - 9.3 CTCI
   [ ] Wild card matching
@@ -511,6 +517,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Word frequencies
     - 16.2 CTCI
   [ ] Word search
+  [ ] Word transformer
+    - 17.22 CTCI
   [ ] xml encoding
     - 16.12 CTCI
   [ ] Zero matrix
