@@ -225,6 +225,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Longest palindromic substring
   [ ] Longest substring without repeating chars
   [ ] Longest valid parentheses
+  [ ] Longest word
+    - 17.15 CTCI
   [ ] Loop detection
     - 2.8 CTCI
   [ ] LRU cache
@@ -258,6 +260,8 @@ My personal motivation for this project is to program every day. Sometimes there
     - 17.4 CTCI
   [ ] Mistake
     - 11.1 CTCI
+  [ ] Multi Search
+    - 17.17 CTCI
   [ ] Multiple apartments
     - 14.1 CTCI
   [ ] Multiply strings
@@ -393,6 +397,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Set matrix zeros
   [ ] Shallow vs deep copy
     - 12.5 CTCI
+  [ ] Shortest Supersequence
+    - 17.18 CTCI
   [ ] Shuffle
     - 17.2 CTCI
   [ ] Simplify path
@@ -460,6 +466,8 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Test an ATM
     - 11.6 CTCI
   [ ] Text justification
+  [ ] The Masseuse
+    - 17.16 CTCI
   [ ] Thread vs. process
     - 15.1 CTCI
   [ ] Three in 1
