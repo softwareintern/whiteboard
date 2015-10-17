@@ -1,0 +1,9 @@
+# Add Binary
+Given two strings of binary, return their sum as a string of binary.
+Example:
+ - a="11"
+ - b="1"
+ - return "100"
+
+## sources
+  - CP pg. 11-12
