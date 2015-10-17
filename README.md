@@ -6,23 +6,23 @@ My personal motivation for this project is to program every day. Sometimes there
 ## How to do
   1. create a problem.md file with a clear statement of the problem
   2. create an idea.md file a solution, thoughts, or links
-  3. write a test or way to debug the solution
-  4. code the solution
+  3. write a test or way to debug the solution (when applicable)
+  4. code the solution (when applicable)
 
 ## Problems followed by possible sources (try to alphabetize or consider table)
   [ ] 100 Lockers
     - 6.9 CTCI
-  [ ] 2 sum given target sum find 2 numbers that equals it in array
+  [ ] 2 sum
     - https://web.stanford.edu/class/cs9/lectures/06/TwoSum.pdf
     - CP 2ed. pg. 1-3
     - https://leetcode.com/problems/two-sum/
   [ ] 2d Alloc
     - 12.11 CTCI
-  [ ] 3 sum given target sum find 3 numbers that equals it in array
+  [ ] 3 sum
     - CP 2ed. pg. 4-6 (= 0 variation)
     - https://leetcode.com/problems/3sum/ (= 0 variation)
-  [ ] 3 sum closest 7-8
-    - CP 2ed. pg.
+  [ ] 3 sum closest
+    - CP 2ed. pg. 7-8
     - https://leetcode.com/problems/3sum-closest/
   [ ] 4 sum
   [ ] Add Binary
