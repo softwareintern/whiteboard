@@ -39,7 +39,7 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Baby names
     - 17.7 CTCI
   [ ] Best line
-    - 16.4 CTCI
+    - 16.14 CTCI
   [ ] Best time to buy/sell stock 1
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
