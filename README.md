@@ -38,14 +38,14 @@ My personal motivation for this project is to program every day. Sometimes there
     - 6.6 CTCI
   [ ] Baby names
     - 17.7 CTCI
+  [ ] Balanced Binary Tree
+  [ ] Basketball
+    - 6.2 CTCI
   [ ] Best line
     - 16.14 CTCI
   [ ] Best time to buy/sell stock 1
   [ ] Best time to buy/sell stock 2
   [ ] Best time to buy/sell stock 3
-  [ ] Balanced Binary Tree
-  [ ] Basketball
-    - 6.2 CTCI
   [ ] Binary to string
     - 5.2 CTCI
   [ ] Binary tree in order Traversal
