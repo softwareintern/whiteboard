@@ -1,4 +1,4 @@
-#Don't whiteboard me bro
+# Don't whiteboard me bro
 A collection of common programming exercises explained written in some language, including as many solutions as me or Google can come up. Hopefully, a brute force one and the most efficient one is on the list.
 
 My personal motivation for this project is to program every day. Sometimes there aren't code heavy projects in my personal or professional backlog. Other times it just isn't type of project to think about a better data structure, sort, search or whatever.
