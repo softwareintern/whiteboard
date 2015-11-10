@@ -98,7 +98,7 @@ My personal motivation for this project is to program every day. Sometimes there
   [ ] Combination sum 2
   [ ] Combinations
   [ ] Container with most water
-  [ ] Contecting switch
+  [ ] Context switch
     - 15.2 CTCI
   [ ] Contiguous sequence
     - 16.17 CTCI
